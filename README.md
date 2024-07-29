@@ -1,6 +1,6 @@
 
-
-''' def myLife(courseWorkLoad, caffeineLevel: int = 100, hoursOfSleep : int = 5) -> str:
+```python
+ def myLife(courseWorkLoad, caffeineLevel: int = 100, hoursOfSleep : int = 5) -> str:
     """
     A function to describe a my life based on caffeine intake, hours of sleep, and course workload.
     
@@ -36,4 +36,4 @@
 
 life_status = myLife(caffeineLevel=60, hoursOfSleep=6, courseWorkLoad="Medium")
 print(life_status)
-'''
+
