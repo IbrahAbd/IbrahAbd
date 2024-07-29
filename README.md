@@ -34,6 +34,6 @@
     
     return f"{message}"
 
-life_status = myLife()
-print(life_status)
+lifeStatus = myLife()
+print(lifeStatus)
 
