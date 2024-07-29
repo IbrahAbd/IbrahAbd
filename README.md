@@ -10,7 +10,7 @@
     - courseWorkLoad (str): The intensity of my coursework. Can be 'Low', 'Medium', or 'High'.
     
     Returns:
-    - str: An insightful message about my life.
+    - str: An insightful message about my current situation.
     """
     emoji = {
         'stress': '😰',
