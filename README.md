@@ -1,6 +1,6 @@
 
 ```python
- def myLife(caffeineLevel: int = 100, hoursOfSleep : int = 5, courseWorkLoad: str = "High") -> str:
+ def myLife(caffeineLevel: int = 100, hoursOfSleep : int = 5) -> str:
     """
     A function to describe my life based on caffeine intake, hours of sleep, and course workload.
     
