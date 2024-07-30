@@ -31,7 +31,7 @@
     else:
         message = workLoads["Low"]
     
-    return f"{message}"
+    return message
 
 lifeStatus = myLife()
 print(lifeStatus)
