@@ -2,12 +2,11 @@
 ```python
  def myLife(caffeineLevel: int = 100, hoursOfSleep : int = 5) -> str:
     """
-    A function to describe my life based on caffeine intake, hours of sleep, and course workload.
+    A function to describe my life based on caffeine intake and hours of sleep.
     
     Args:
     - caffeineLevel (int): The current level of caffeine in my system.
     - hoursOfSleep (int): The number of hours I managed to sleep.
-    - courseWorkLoad (str): The intensity of my coursework. Can be 'Low', 'Medium', or 'High'.
     
     Returns:
     - str: An insightful message about my current situation.
