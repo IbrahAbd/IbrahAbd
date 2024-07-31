@@ -23,10 +23,10 @@
         'High': f"Brace yourself, finals are coming!{emoji['stress']}{emoji['study']}"
     }
 
-    if caffeineLevel >= 100 and hoursOfSleep <= 7:
+    if caffeineLevel >= 100 and hoursOfSleep <= 5:
         message = workLoads["High"]
 
-    elif caffeineLevel >= 50 and hoursOfSleep <= 6:
+    elif caffeineLevel >= 50 and hoursOfSleep <= 7:
         message = workLoads["Medium"]
     else:
         message = workLoads["Low"]
