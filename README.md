@@ -35,4 +35,3 @@
 
 lifeStatus = myLife()
 print(lifeStatus)
-
